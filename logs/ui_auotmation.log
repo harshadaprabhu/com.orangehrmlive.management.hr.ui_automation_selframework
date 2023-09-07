@@ -1,0 +1,65 @@
+2023-08-22 22:27:38,495:INFO:6
+2023-08-22 22:27:38,495:INFO:2
+2023-08-22 22:27:38,525:INFO:1
+2023-08-22 22:27:38,525:INFO:1
+2023-08-22 22:27:38,545:INFO:###########################
+2023-08-22 22:27:38,549:INFO:['admin']
+2023-08-22 22:27:38,549:INFO:###########################
+2023-08-22 22:27:38,549:INFO:['Admin123']
+2023-08-22 22:27:38,557:INFO:###########################
+2023-08-22 22:27:38,557:INFO:['aa']
+2023-08-22 22:27:38,557:INFO:###########################
+2023-08-22 22:27:38,565:INFO:[None]
+2023-08-22 22:27:38,573:INFO:###########################
+2023-08-22 22:27:38,575:INFO:[None]
+2023-08-22 22:27:38,575:INFO:###########################
+2023-08-22 22:27:38,575:INFO:['aa']
+2023-08-22 22:27:38,581:INFO:###########################
+2023-08-22 22:27:38,585:INFO:['admin1']
+2023-08-22 22:27:38,585:INFO:###########################
+2023-08-22 22:27:38,589:INFO:['Admin123']
+2023-08-22 22:27:38,597:INFO:###########################
+2023-08-22 22:27:38,605:INFO:['admin']
+2023-08-22 22:27:38,605:INFO:###########################
+2023-08-22 22:27:38,605:INFO:['admin123']
+2023-08-22 22:27:38,605:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-22 22:27:38,605:INFO:=== Inside method setUsername ===
+2023-08-22 22:27:38,728:INFO:=== Method setUsername Ends ===
+2023-08-22 22:27:38,728:INFO:====== Inside setPassword Method ======
+2023-08-22 22:27:38,818:INFO:=========== setPassword Executed successfully =======
+2023-08-22 22:27:50,345:INFO:===+++++ harsh ===+++++
+2023-08-22 22:27:50,347:WARNING:====== testcase executed successfully ==========
+2023-08-22 22:27:50,347:ERROR:++++++++++++++++++++++++++++++++++++++++++++++
+2023-08-23 21:26:19,966:INFO:None
+2023-08-23 21:27:04,436:INFO:None
+2023-08-23 21:28:11,783:INFO:None
+2023-08-23 21:29:23,909:INFO:None
+2023-08-23 22:17:19,743:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-23 22:17:19,743:INFO:=== Inside method setUsername ===
+2023-08-23 22:21:59,401:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-23 22:21:59,401:INFO:=== Inside method setUsername ===
+2023-08-23 22:23:38,160:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-23 22:23:43,160:INFO:=== Inside method setUsername ===
+2023-08-23 22:25:12,540:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-23 22:25:17,541:INFO:=== Inside method setUsername ===
+2023-08-23 22:25:17,632:INFO:=== Method setUsername Ends ===
+2023-08-23 22:27:01,456:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-23 22:27:06,457:INFO:=== Inside method setUsername ===
+2023-08-25 21:25:19,917:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-25 21:25:24,918:INFO:=== Inside method setUsername ===
+2023-08-25 21:25:25,004:INFO:=== Method setUsername Ends ===
+2023-08-25 21:39:20,990:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-25 21:39:20,990:INFO:=== Inside method setUsername ===
+2023-08-25 21:39:21,073:INFO:=== Method setUsername Ends ===
+2023-08-25 21:39:21,074:INFO:====== Inside setPassword Method ======
+2023-08-25 21:39:21,197:INFO:=========== setPassword Executed successfully =======
+2023-08-25 21:42:07,817:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-25 21:42:07,818:INFO:=== Inside method setUsername ===
+2023-08-25 21:42:07,919:INFO:=== Method setUsername Ends ===
+2023-08-25 21:42:07,921:INFO:====== Inside setPassword Method ======
+2023-08-25 21:42:08,028:INFO:=========== setPassword Executed successfully =======
+2023-08-25 21:48:49,588:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-08-25 21:48:49,588:INFO:=== Inside method setUsername ===
+2023-08-25 21:48:49,675:INFO:=== Method setUsername Ends ===
+2023-08-25 21:48:49,675:INFO:====== Inside setPassword Method ======
+2023-08-25 21:48:49,786:INFO:=========== setPassword Executed successfully =======

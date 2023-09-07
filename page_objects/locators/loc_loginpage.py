@@ -1,0 +1,8 @@
+loc_img_companybranding = "//img[@alt='company-branding']"
+loc_h_loginlabel = "//div[@class='orangehrm-login-slot']/h5"
+loc_p_usernamepassword = "//p[@class='oxd-text oxd-text--p']"
+loc_label_username_label = "//label[contains(text(),'Username')]"
+loc_input_usernametxtbox = "username"
+loc_label_password_label = "//label[contains(text(),'Password')]"
+loc_input_passwordtxtbox = "password"
+loc_button_login = "//div[@class='oxd-form-actions orangehrm-login-action']/button"

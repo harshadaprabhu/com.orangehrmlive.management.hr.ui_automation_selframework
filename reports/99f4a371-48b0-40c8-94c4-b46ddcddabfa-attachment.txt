@@ -1,0 +1,5 @@
+[31mCRITICAL[0m root:Test_LoginPage.py:19 ============ testcase test_LoginWithValidCredentials start ==========
+[32mINFO    [0m root:BL_LoginPage.py:22 === Inside method setUsername ===
+[32mINFO    [0m root:BL_LoginPage.py:25 === Method setUsername Ends ===
+[32mINFO    [0m root:BL_LoginPage.py:29 ====== Inside setPassword Method ======
+[32mINFO    [0m root:BL_LoginPage.py:32 =========== setPassword Executed successfully =======

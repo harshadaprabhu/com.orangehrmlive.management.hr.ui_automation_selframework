@@ -1,0 +1,1 @@
+loc_myactions_label = "//i[@class='oxd-icon bi-list-check orangehrm-dashboard-widget-icon']/following-sibling::p"
